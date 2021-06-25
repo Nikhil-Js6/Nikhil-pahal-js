@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nikhil-pahal-js
+- 👋 Hi, I’m @Nikhilpahaljs
 - 👀 I’m interested in Javascript, Node.js, React.js, React Native, Next.js and Python.
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on ...
