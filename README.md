@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nikhil-pahal-js
+- 👋 Hi, I’m @Nikhil.
 - 👀 I’m interested in Javascript, Node.js, React.js, React Native and Python and hacking also.
 - 🌱 I’m currently learning Frontend Web Design and Development.
 - 💞️ I’m looking to collaborate on ... 
