@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nikhil.
-- 👀 I’m interested in Node.js, React.js, React Native, Python, and Javascript
+- 👀 I’m interested in Javascript
 - 🌱 I’m currently learning Frontend Web Design and Development.
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me email: nikhilpahal2001@gmail.com
