@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikhil.
 - 👀 I’m interested in Javascript, Python, React.js and React Native. 
-- 🌱 I’m currently learning Frontend Web Design and Development.
+- 🌱 I’m currently learning Hacking.
 - 💞️ I’m looking to collaborate on Bug Bounty
 - 📫 How to reach me email: nikhilpahal2001@gmail.com
 <!---
