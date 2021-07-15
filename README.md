@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikhil.
 - 👀 I’m interested in Javascript, Python, React.js and React Native. 
-- 🌱 I’m currently learning Anonymous Hacking.
+- 🌱 I’m currently learning Something Dangerous.
 - 💞️ I’m looking to collaborate on Advanced Dev Projects
 - 📫 How to reach me email: nikhilpahal2001@gmail.com
 <!---
